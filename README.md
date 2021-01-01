@@ -1,5 +1,6 @@
 ## hello, i'm eddie
 ### full-stack web developer
+[cover photo](https://github.com/edidonato1/edidonato1/pina_3.png)
 
 <!--
 **edidonato1/edidonato1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
