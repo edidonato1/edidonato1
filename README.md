@@ -15,7 +15,7 @@ After years of program development in cocktail bars, I decided to take on a new 
 * always learning 🤓 
 
 ## currently open to new opportunities. 💼 
-i'm currently available for full-time or freelance work.
+i'm available for freelance work.
 
 check out my [resume](https://drive.google.com/file/d/1NwVrZAhES0f3gqt6rjgzFkPIW3BJYfSe/view?usp=sharing), peruse my [portfolio](https://didonato.io), or <a href="mailto:edward.f.didonato@gmail.com">contact me directly</a>
 
