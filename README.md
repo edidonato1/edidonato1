@@ -6,7 +6,7 @@
 
 ### a writer and hospitality professional turned web developer.  
 ____
-After years of program development in cocktail bars, I decided to take on a new creative outlet.  An empathetic background has always made me sensible of the end-user, who is always on my mind when i'm developing.
+After years of program development in cocktail bars, I wanted to take on a new creative outlet.  An empathetic background has always made me sensible of the end-user, who is always on my mind when i'm developing.
 
 ##  what i do. ⚙️
 * i love building in ⚛️ React
